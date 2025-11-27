@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Information_Extractor.vcxproj" Id="e05a8cd8-ea5c-4d4b-b05d-87fef4d479fe" />
+</Solution>
